@@ -16,12 +16,16 @@ This is a sample React Native app that changes the background color when a butto
 # My Project
 
 Here are some screenshots of the app:
+# My Project
+
+Here are some screenshots of the app:
 
 ## Screenshot 1
-![Screenshot 1](screenshots/Screenshot_2024-05-21-12-19-29-423-edit_com.bgchanger.jpg)
+<img src="screenshots/Screenshot_2024-05-21-12-19-29-423-edit_com.bgchanger.jpg" alt="Screenshot 1" width="300">
 
 ## Screenshot 2
-![Screenshot 2](screenshots/Screenshot_2024-05-21-12-19-42-927-edit_com.bgchanger.jpg)
+<img src="screenshots/Screenshot_2024-05-21-12-19-42-927-edit_com.bgchanger.jpg" alt="Screenshot 2" width="300">
+
 
 ## Contributing
 
