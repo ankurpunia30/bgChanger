@@ -13,7 +13,6 @@ This is a sample React Native app that changes the background color when a butto
 2. Open the app on your device or emulator.
 
 ## Screen shots
-# My Project
 
 Here are some screenshots of the app:
 # My Project
