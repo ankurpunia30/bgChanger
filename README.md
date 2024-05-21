@@ -14,8 +14,6 @@ This is a sample React Native app that changes the background color when a butto
 
 ## Screen shots
 
-[](screenshots/Screenshot_2024-05-21-12-19-29-423-edit_com.bgchanger.jpg) 
-[](screenshots/Screenshot_2024-05-21-12-19-42-927-edit_com.bgchanger.jpg)
 ## Contributing
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
